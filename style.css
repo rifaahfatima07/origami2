@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: palevioletred;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    background-color: palegreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h2{
+    background-color: paleturquoise;
+    text-align: center;
+}
